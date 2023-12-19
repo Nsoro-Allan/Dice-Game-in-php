@@ -1,2 +1,2 @@
 Dice Game
-CheckOut This amazing two player dice game created in php..
+CheckOut This amazing two player dice game created in php.
